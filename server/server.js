@@ -50,9 +50,3 @@ app.listen(3000, ()=>{
 });
 
 module.exports = {app};
-
-
-// proxy=http://proxy.cognizant.com:6050/
-// https-proxy=http://proxy.cognizant.com:6050/
-// strict-ssl=false
-// registry=https://registry.npmjs.org/
